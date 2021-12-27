@@ -1,1 +1,4 @@
-# YahtzeeProject
+# YahtzeeProject 
+Yahtzee is a dice game in which players compete to achieve the highest possible total score. Each turn, a player rolls five dice: he/she may elect to re-roll some (or all) of the dice, or to keep the roll. A player may re-roll at most twice in any turn. Having rolled the dice, the player then chooses how best to score the roll: there are several categories (e.g., Fives, Three of a Kind, Small Straight), each with a different set of requirements for scoring. Over the course of the game, the player may use each category only once.
+
+For this assignment, I used Java programming with Die, Yahtzee, and Main classes where each class contained several methods. These classes were needed to simulate the essential aspects of a single turn of Yahtzee. When the code is used, a user should be able to roll the dice (up to three times), see the points that each roll could provide in each of the scoring categories, and select which “Dice” numbers they would like to keep. 
